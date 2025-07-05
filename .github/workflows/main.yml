@@ -1,0 +1,10 @@
+name: Saludo en cada push
+
+on: push
+
+jobs:
+  hola:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Saludo personalizado
+        run: echo "👋 ¡Hola desde GitHub Actions, soy Christian!
