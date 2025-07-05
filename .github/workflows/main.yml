@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Saludo personalizado
-        run: echo "👋 ¡Hola desde GitHub Actions, soy Christian!
+        run: echo "👋 ¡Hola desde GitHub Actions, soy Christian!"
