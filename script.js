@@ -6,5 +6,7 @@ function mostrarHolaMundo() {
     console.log("hola mundo");
 }
 
+console.log("hola")
+
 // Call the function
 mostrarHolaMundo();
