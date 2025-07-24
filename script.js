@@ -6,5 +6,6 @@ function mostrarHolaMundo() {
     console.log("hola mundo");
 }
 
+
 // Call the function
 mostrarHolaMundo();
